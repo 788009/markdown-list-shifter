@@ -1,6 +1,7 @@
 {
   "name": "markdown-list-shifter",
   "displayName": "Markdown List Shifter",
+  "publisher": "uuk",
   "description": "Quickly switch between ordered and unordered Markdown lists at the current level.",
   "version": "0.0.1",
   "engines": {
