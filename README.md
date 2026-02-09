@@ -12,4 +12,4 @@ Toggle list type by pressing `Alt` + `Shift` + `T` while the cursor is inside a 
 
 This extension contributes the following settings:
 
-- `markdown-list-shifter.defaultUnorderedMarker`: Set the default marker for unordered lists (-, *, or +).
+- `markdown-list-shifter.defaultUnorderedMarker`: Set the default marker for unordered lists (`-`, `*`, or `+`).
