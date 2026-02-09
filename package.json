@@ -2,6 +2,14 @@
   "name": "markdown-list-shifter",
   "displayName": "Markdown List Shifter",
   "publisher": "uuk",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/788009/markdown-list-shifter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/788009/markdown-list-shifter/issues"
+  },
+  "homepage": "https://github.com/788009/markdown-list-shifter#readme",
   "description": "Quickly switch between ordered and unordered Markdown lists at the current level.",
   "version": "0.0.1",
   "engines": {
