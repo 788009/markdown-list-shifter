@@ -11,7 +11,7 @@
   },
   "homepage": "https://github.com/788009/markdown-list-shifter#readme",
   "description": "Quickly switch between ordered and unordered Markdown lists at the current level.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.75.0"
